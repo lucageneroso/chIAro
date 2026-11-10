@@ -1,4 +1,4 @@
-# Chiaro (chIAro) – scaffolding del prompting per over 60
+# chIAro – scaffolding del prompting per over 60
 
 Progetto di Human-Computer Interaction in tre fasi: **analisi** del problema, **design** di un'interfaccia e **impostazione dello studio di usabilità**. Tutto il materiale è in italiano.
 
