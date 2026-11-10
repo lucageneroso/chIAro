@@ -35,7 +35,7 @@ Scrivere una richiesta efficace a un assistente basato su un modello linguistico
 
 ## 3. Il design in sintesi
 
-**Tre livelli di aiuto**, scelti dall'utente e modificabili in ogni momento:
+**Tre livelli di aiuto**, scelti dall'utente e modificabili in ogni momento (al momento solo ti guido è funzionante):
 
 | Livello | Che cosa fa |
 |---|---|
