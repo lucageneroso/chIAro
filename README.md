@@ -77,7 +77,6 @@ F1 Home · F2 Modelli di lettera · F3 Domanda guidata · F4 La tua richiesta ·
 
 ## 5. Struttura della repo
 
-> Adatta i percorsi se organizzi i file in modo diverso.
 
 ```
 .
@@ -87,6 +86,7 @@ F1 Home · F2 Modelli di lettera · F3 Domanda guidata · F4 La tua richiesta ·
 │   ├── chIAro_AS2_design_v5_1.docx             Assignment 2 – Design (Rev. 5)
 │   └── chIAro_AS3_UsabilityTesting_v7_0.docx   Assignment 3 – Usability testing (Rev. 7)
 └── frames/                                     Screenshot F1–F8 del prototipo (già inseriti in AS2)
+|--src/ codice sorgente
 ```
 
 | Documento | Domanda a cui risponde | Contenuto principale |
